@@ -1,5 +1,4 @@
-# Box-Shooter
-3D Shooter Game
+# Box Shooter
 
 Box Shooter is a simple 3D first person shooter game I developed as part of the Game Design and Development Specialization by Michigan State University on Coursera. 
 
